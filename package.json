@@ -1,0 +1,27 @@
+{
+  "name": "jobsearcher",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/zaimali10/JobSearcher.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/zaimali10/JobSearcher/issues"
+  },
+  "homepage": "https://github.com/zaimali10/JobSearcher#readme",
+  "dependencies": {
+    "babel": "^6.23.0",
+    "babel-loader": "^8.1.0",
+    "express": "^4.17.1",
+    "nodemon": "^2.0.4",
+    "react": "^16.13.1",
+    "webpack": "^4.44.0"
+  }
+}
